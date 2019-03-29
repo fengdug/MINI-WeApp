@@ -1,0 +1,21 @@
+{   
+  "pages": [
+    "pages/tl/tl",
+    "pages/start/start",
+    "pages/test/test"
+  ],
+
+  "cloud": true,
+
+  "window": {  
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#f5f5fa",
+    "backgroundColor": "#f5f5fa",
+    "backgroundTextStyle": "light",
+    "navigationStyle":"custom"
+  },
+
+  "navigateToMiniProgramAppIdList": [
+    "wx0ceba01e2e93e612"
+  ]
+}
